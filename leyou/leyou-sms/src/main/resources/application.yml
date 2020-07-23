@@ -10,7 +10,7 @@ spring:
     password: leyou
 leyou:
   sms:
-    accessKeyId: LTAI4G4xBGjew6v2fEUXAwRC # 你自己的accessKeyId
-    accessKeySecret: u97e6KYYkeHUAwJxMKFS25hTqmYJLw # 你自己的AccessKeySecret
+    accessKeyId: LTAI******* # 你自己的accessKeyId
+    accessKeySecret: u97***** # 你自己的AccessKeySecret
     signName: 阳光商城 # 签名名称
-    verifyCodeTemplate: SMS_195872532 # 模板名称
+    verifyCodeTemplate: SMS_19******* # 模板名称
